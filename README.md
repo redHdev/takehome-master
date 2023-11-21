@@ -1,4 +1,4 @@
-# Atllas Takehome
+# Takehome
 
 Welcome! We're excited that you’ve applied to be an engineer, and we’re looking forward to
 evaluating your takehome! This project is meant to showcase your ability to write a
